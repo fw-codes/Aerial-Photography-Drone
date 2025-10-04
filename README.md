@@ -30,9 +30,11 @@ All images are available in the /images
 
 * Project Structure
 Aerial-Photography-Drone/
-│
-├── images/                # Drone images and screenshots            
+
+├── images/                # Drone images and screenshots 
+
 ├── README.md              # Project documentation
+
 └── codes/ 
     ├──cameraWebServer     #Arduino Esp32 cam code
     ├──Libraries           #GPS and bluetooth module code
