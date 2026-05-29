@@ -5,7 +5,7 @@
 #define CAMERA_MODEL_ESP_EYE // Has PSRAM
 #include "camera_pins.h"
  
-const char* ssid = "JioFiber";
+const char* ssid = "realme-C35";
 const char* password = "11223344";
 
 void startCameraServer();
